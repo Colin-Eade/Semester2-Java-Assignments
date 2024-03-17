@@ -1,4 +1,3 @@
-
 // Name: Colin Eade
 // Date: March 13, 2023
 // App Name: Horse Race
